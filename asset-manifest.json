@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/routingpractice/static/css/main.073c9b0a.css",
+    "main.js": "/routingpractice/static/js/main.5f2236a7.js",
+    "static/js/787.6c8e275f.chunk.js": "/routingpractice/static/js/787.6c8e275f.chunk.js",
+    "static/media/logo.svg": "/routingpractice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/routingpractice/index.html",
+    "main.073c9b0a.css.map": "/routingpractice/static/css/main.073c9b0a.css.map",
+    "main.5f2236a7.js.map": "/routingpractice/static/js/main.5f2236a7.js.map",
+    "787.6c8e275f.chunk.js.map": "/routingpractice/static/js/787.6c8e275f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5f2236a7.js"
+  ]
+}
